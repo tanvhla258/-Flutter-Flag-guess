@@ -59,7 +59,14 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/images/home.png
-    - assets/images/waving-flag-icon-collection_1368-2668.avif
+    - assets/images/Vietnam.png
+    - assets/images/USA.png
+    - assets/images/England.png
+    - assets/images/Russia.png
+    - assets/images/India.png
+    - assets/images/Canada.png
+
+    # - assets/images/waving-flag-icon-collection_1368-2668.avif
     # - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
